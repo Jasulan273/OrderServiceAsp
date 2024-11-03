@@ -115,3 +115,4 @@ C:\Program Files\PET-Projects\HardCode\OrderService\OrderService\obj\Debug\net8.
 C:\Program Files\PET-Projects\HardCode\OrderService\OrderService\obj\Debug\net8.0\OrderService.pdb
 C:\Program Files\PET-Projects\HardCode\OrderService\OrderService\obj\Debug\net8.0\OrderService.genruntimeconfig.cache
 C:\Program Files\PET-Projects\HardCode\OrderService\OrderService\obj\Debug\net8.0\ref\OrderService.dll
+C:\Program Files\PET-Projects\HardCode\OrderService\OrderService\obj\Debug\net8.0\OrderService.sourcelink.json

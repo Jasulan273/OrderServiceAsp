@@ -115,3 +115,4 @@ C:\Program Files\PET-Projects\HardCode\OrderService\DeliveryService\obj\Debug\ne
 C:\Program Files\PET-Projects\HardCode\OrderService\DeliveryService\obj\Debug\net8.0\DeliveryService.pdb
 C:\Program Files\PET-Projects\HardCode\OrderService\DeliveryService\obj\Debug\net8.0\DeliveryService.genruntimeconfig.cache
 C:\Program Files\PET-Projects\HardCode\OrderService\DeliveryService\obj\Debug\net8.0\ref\DeliveryService.dll
+C:\Program Files\PET-Projects\HardCode\OrderService\DeliveryService\obj\Debug\net8.0\DeliveryService.sourcelink.json

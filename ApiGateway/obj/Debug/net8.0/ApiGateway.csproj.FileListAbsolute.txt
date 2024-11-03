@@ -37,3 +37,4 @@ C:\Program Files\PET-Projects\HardCode\OrderService\ApiGateway\obj\Debug\net8.0\
 C:\Program Files\PET-Projects\HardCode\OrderService\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
 C:\Program Files\PET-Projects\HardCode\OrderService\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
 C:\Program Files\PET-Projects\HardCode\OrderService\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+C:\Program Files\PET-Projects\HardCode\OrderService\ApiGateway\obj\Debug\net8.0\ApiGateway.sourcelink.json
