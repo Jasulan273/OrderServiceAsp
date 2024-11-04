@@ -25,6 +25,11 @@ builder.Services.AddMassTransit(x =>
         {
             e.ConfigureConsumer<OrderCreatedConsumer>(context);
         });
+        cfg.ConfigureJsonSerializerOptions(opts =>
+{
+opts.PropertyNameCaseInsensitive = true;
+return opts;
+});
     });
 });
 
